@@ -2,6 +2,11 @@ import sys
 import openpyxl
 import json
 
+# thanks https://www.datasciencelearner.com/how-to-round-floats-in-python/
+def get_round_value(float_number):
+	return float("{:0.2f}".format(float_number))
+
+
 def create_transaction_json(shares_dict):
 	
 	profit_dict = dict()
@@ -42,7 +47,7 @@ def create_transaction_json(shares_dict):
 						sell["shares"] = 0
 						continue
 		
-		profit_dict[share]["profit"] = profit
+		profit_dict[share]["profit"] = get_round_value(profit)
 
 	# creating the final dictionnary
 
@@ -96,6 +101,8 @@ def update_balance_json(profit_dict):
 			balance["Stocks"][share]["total_stock_traded"] += profit_dict[share]["shares_traded"]
 
 			balance["total_profit"] += profit_dict[share]["profit"]
+
+			balance["total_profit"] = get_round_value(balance["total_profit"])
 
 		json.dump(balance, json_file, indent=4) # writing the dict
 		json_file.truncate() # truncating the file

@@ -2,27 +2,27 @@
     "BK": {
         "Bought": [],
         "Sold": [],
-        "profit": 0.4650065500000018
+        "profit": 0.47
     },
     "CVX": {
         "Bought": [],
         "Sold": [],
-        "profit": 3.200286539999997
+        "profit": 3.2
     },
     "VZ": {
         "Bought": [],
         "Sold": [],
-        "profit": -1.063685189999999
+        "profit": -1.06
     },
     "KO": {
         "Bought": [],
         "Sold": [],
-        "profit": 0.1877712799999962
+        "profit": 0.19
     },
     "STOR": {
         "Bought": [],
         "Sold": [],
-        "profit": -0.1187868000000023
+        "profit": -0.12
     },
     "QYLD": {
         "Bought": [
@@ -79,7 +79,7 @@
                 "shares": 0.32298
             }
         ],
-        "profit": 0
+        "profit": 0.0
     },
     "AAPL": {
         "Bought": [
@@ -108,7 +108,7 @@
                 "shares": 0.1613
             }
         ],
-        "profit": 0
+        "profit": 0.0
     },
     "O": {
         "Bought": [
@@ -129,27 +129,27 @@
                 "shares": 0.34909
             }
         ],
-        "profit": 0
+        "profit": 0.0
     },
     "LOW": {
         "Bought": [],
         "Sold": [],
-        "profit": 3.6307752999999927
+        "profit": 3.63
     },
     "BIPC": {
         "Bought": [],
         "Sold": [],
-        "profit": 0.4384947999999973
+        "profit": 0.44
     },
     "XYLD": {
         "Bought": [],
         "Sold": [],
-        "profit": 2.873459000000011
+        "profit": 2.87
     },
     "RYLD": {
         "Bought": [],
         "Sold": [],
-        "profit": 1.3959512000000274
+        "profit": 1.4
     },
     "DIVO": {
         "Bought": [
@@ -158,7 +158,7 @@
                 "shares": 2.9349
             }
         ],
-        "profit": 0
+        "profit": 0.0
     },
     "JEPI": {
         "Bought": [
@@ -167,7 +167,7 @@
                 "shares": 1.77738
             }
         ],
-        "profit": 0
+        "profit": 0.0
     },
     "NUSI": {
         "Bought": [
@@ -176,6 +176,6 @@
                 "shares": 3.85847
             }
         ],
-        "profit": 0
+        "profit": 0.0
     }
 }
