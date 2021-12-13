@@ -1,0 +1,181 @@
+{
+    "BK": {
+        "Bought": [],
+        "Sold": [],
+        "profit": 0.4650065500000018
+    },
+    "CVX": {
+        "Bought": [],
+        "Sold": [],
+        "profit": 3.200286539999997
+    },
+    "VZ": {
+        "Bought": [],
+        "Sold": [],
+        "profit": -1.063685189999999
+    },
+    "KO": {
+        "Bought": [],
+        "Sold": [],
+        "profit": 0.1877712799999962
+    },
+    "STOR": {
+        "Bought": [],
+        "Sold": [],
+        "profit": -0.1187868000000023
+    },
+    "QYLD": {
+        "Bought": [
+            {
+                "price": 22.62,
+                "shares": 0.884368
+            },
+            {
+                "price": 22.25,
+                "shares": 0.314677
+            },
+            {
+                "price": 22.67,
+                "shares": 0.70593
+            },
+            {
+                "price": 22.67,
+                "shares": 0.17648
+            },
+            {
+                "price": 22.76,
+                "shares": 0.01055
+            },
+            {
+                "price": 22.86,
+                "shares": 1.57515
+            },
+            {
+                "price": 22.92,
+                "shares": 2.18198
+            },
+            {
+                "price": 22.63,
+                "shares": 1.10473
+            },
+            {
+                "price": 22.58,
+                "shares": 0.73798
+            },
+            {
+                "price": 22.12,
+                "shares": 0.05923
+            },
+            {
+                "price": 22.29,
+                "shares": 3.92595
+            },
+            {
+                "price": 22.15,
+                "shares": 4.0
+            },
+            {
+                "price": 22.73,
+                "shares": 0.32298
+            }
+        ],
+        "profit": 0
+    },
+    "AAPL": {
+        "Bought": [
+            {
+                "price": 146.08,
+                "shares": 0.171144
+            },
+            {
+                "price": 143.79,
+                "shares": 0.060854
+            },
+            {
+                "price": 148.85,
+                "shares": 0.08062
+            },
+            {
+                "price": 150.72,
+                "shares": 0.11943
+            },
+            {
+                "price": 150.38,
+                "shares": 0.00067
+            },
+            {
+                "price": 159.77,
+                "shares": 0.1613
+            }
+        ],
+        "profit": 0
+    },
+    "O": {
+        "Bought": [
+            {
+                "price": 71.39,
+                "shares": 0.10506
+            },
+            {
+                "price": 72.17,
+                "shares": 0.24941
+            },
+            {
+                "price": 71.17,
+                "shares": 0.00028
+            },
+            {
+                "price": 71.62,
+                "shares": 0.34909
+            }
+        ],
+        "profit": 0
+    },
+    "LOW": {
+        "Bought": [],
+        "Sold": [],
+        "profit": 3.6307752999999927
+    },
+    "BIPC": {
+        "Bought": [],
+        "Sold": [],
+        "profit": 0.4384947999999973
+    },
+    "XYLD": {
+        "Bought": [],
+        "Sold": [],
+        "profit": 2.873459000000011
+    },
+    "RYLD": {
+        "Bought": [],
+        "Sold": [],
+        "profit": 1.3959512000000274
+    },
+    "DIVO": {
+        "Bought": [
+            {
+                "price": 37.48,
+                "shares": 2.9349
+            }
+        ],
+        "profit": 0
+    },
+    "JEPI": {
+        "Bought": [
+            {
+                "price": 61.89,
+                "shares": 1.77738
+            }
+        ],
+        "profit": 0
+    },
+    "NUSI": {
+        "Bought": [
+            {
+                "price": 28.51,
+                "shares": 3.85847
+            }
+        ],
+        "profit": 0
+    }
+}

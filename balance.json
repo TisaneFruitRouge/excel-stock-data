@@ -1,0 +1,65 @@
+{
+    "Stocks": {
+        "BK": {
+            "profit": 0.4650065500000018,
+            "total_stock_traded": 0.71779
+        },
+        "CVX": {
+            "profit": 3.200286539999997,
+            "total_stock_traded": 0.36484
+        },
+        "VZ": {
+            "profit": -1.063685189999999,
+            "total_stock_traded": 0.61422
+        },
+        "KO": {
+            "profit": 0.1877712799999962,
+            "total_stock_traded": 0.5977
+        },
+        "STOR": {
+            "profit": -0.1187868000000023,
+            "total_stock_traded": 0.9559
+        },
+        "QYLD": {
+            "profit": 0,
+            "total_stock_traded": 0
+        },
+        "AAPL": {
+            "profit": 0,
+            "total_stock_traded": 0
+        },
+        "O": {
+            "profit": 0,
+            "total_stock_traded": 0
+        },
+        "LOW": {
+            "profit": 3.6307752999999927,
+            "total_stock_traded": 0.21087
+        },
+        "BIPC": {
+            "profit": 0.4384947999999973,
+            "total_stock_traded": 0.81911
+        },
+        "XYLD": {
+            "profit": 2.873459000000011,
+            "total_stock_traded": 5.27765
+        },
+        "RYLD": {
+            "profit": 1.3959512000000274,
+            "total_stock_traded": 5.89641
+        },
+        "DIVO": {
+            "profit": 0,
+            "total_stock_traded": 0
+        },
+        "JEPI": {
+            "profit": 0,
+            "total_stock_traded": 0
+        },
+        "NUSI": {
+            "profit": 0,
+            "total_stock_traded": 0
+        }
+    },
+    "total_profit": 11.009272680000022
+}
